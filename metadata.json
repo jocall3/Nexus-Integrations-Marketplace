@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Integrations Marketplace",
+  "description": "A comprehensive platform for discovering, installing, and managing third-party integrations. Features a full developer portal with API key management, webhook monitoring, and an AI-powered integration ideator for architectural planning.",
+  "requestFramePermissions": []
+}
